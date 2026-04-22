@@ -36,8 +36,8 @@ Antes de começar, certifique-se de ter instalado:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/rhuan1234/API_COM_LARAVEL.git
+cd API_COM_LARAVEL
 ```
 
 ### 2. Instalar Dependências PHP
@@ -278,18 +278,3 @@ Para dúvidas e problemas, abra uma issue no repositório.
 
 ---
 
-**Divirta-se desenvolvendo! 🎉**
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
